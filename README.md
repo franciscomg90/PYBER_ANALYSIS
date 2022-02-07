@@ -7,7 +7,7 @@ The object of this challenge is to set a new data frame from the ride-fares data
 ## Results
 >**Differences in ride-sharing data among the different city types.**
 
-Obtaining the total rides by city type we found that Urban has the biggest rides quiantity.
+Obtaining the total rides by city type we found that Urban has the biggest ride quantity.
 
 ![rides by city type](https://github.com/franciscomg90/PYBER_ANALYSIS/blob/main/Resources/Rides%20by%20city%20type.PNG)
 
@@ -36,7 +36,7 @@ Obtaining the total rides by city type we found that Urban has the biggest rides
 
 ![total rides by type plot](https://github.com/franciscomg90/PYBER_ANALYSIS/blob/main/Resources/PyBer_fare_summary.png)
 
-Seeing at the graph we can infer that Urban type have the biggest market share of the total fares. Using the data bases we can see below it has almost 70% of the total rides from Pyber, which makes sense since this kind of service is more used by people with urgent mobility needs and limited parking places. Also it is used through a movil application which imply a better knowledge of the technology and also a higher purchansing power. Nevertheless we can see trough the graph that rural fares have less volatility and could represent an important and estable base of Pyber income.  
+Looking at the graph we can infer that Urban types have the biggest market share of the total fares. Using the databases we can see below it has almost 70% of the total rides from Pyber, which makes sense since this kind of service is more used by people with urgent mobility needs and limited parking places. Also it is used through a mobile application which implies a better knowledge of the technology and also a higher purchasing power. Nevertheless we can see through the graph that rural fares have less volatility and could represent an important and estable base of Pyber income.
 
 ![type percentage](https://github.com/franciscomg90/PYBER_ANALYSIS/blob/main/Resources/type%20percentage.PNG)
 
